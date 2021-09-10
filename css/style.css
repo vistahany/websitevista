@@ -1,0 +1,38 @@
+
+
+.slider h1,
+.slider h3 {
+	text-shadow: 1px 1px 3px rgba(0,0,0,1);
+}
+
+.parallax-container {
+	height: 400px;
+}
+
+.parallax img {
+	opacity: 0.5 !important;
+}
+
+.clients h3 {
+	text-shadow: 1px 1px 3px rgba(0,0,0,1);
+}
+
+.clients img {
+	max-width: 100px;
+	filter: drop-shadow(1px 1px 1px rgba(0,0,0,1));
+}
+
+section, footer {
+	padding: 20px 0;
+}
+
+.sidenav img {
+	max-width: 400px;
+}
+
+.navbar-fixed img {
+	max-width: 50px;
+
+}
+
+
